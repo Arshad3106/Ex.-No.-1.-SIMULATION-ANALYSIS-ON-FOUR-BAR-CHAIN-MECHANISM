@@ -60,8 +60,8 @@
 <img width="328" height="170" alt="Screenshot 2026-05-14 131202" src="https://github.com/user-attachments/assets/a4751b39-92f3-4d3a-8cff-b9a874604a06" />
 
 
-### Name: SAI DESHIYA K
-### Register Number: 212224220084
+### Name: MOHAMED ARSHADULLAH A
+### Register Number: 212224230161
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
